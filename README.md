@@ -1,16 +1,6 @@
 # Progressive Web App Template
 
-> New version is on the way...
-
-[![Lighthouse 90](https://img.shields.io/badge/Lighthouse-100-green.svg)](https://github.com/GoogleChrome/lighthouse)
-[![PageSpeed 97](https://img.shields.io/badge/PageSpeed-97-green.svg)](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fpwa-demo.appspot.com&tab=desktop)
-[![Resizer Responsive UI](https://img.shields.io/badge/Resizer-Responsive%20UI-green.svg)](http://design.google.com/resizer/#url=https%3A%2F%2Fpwa-demo.appspot.com)
-[![BrowserStack](https://img.shields.io/badge/BrowserStack-App%20tested-green.svg)](https://www.browserstack.com)
-[![bitHound Score](https://www.bithound.io/github/StartPolymer/progressive-web-app-template/badges/score.svg)](https://www.bithound.io/github/StartPolymer/progressive-web-app-template)
-[![G+ StartPolymer](https://img.shields.io/badge/G+-StartPolymer-dd4b39.svg)](https://plus.google.com/101148544618948882647)
-[![Slack josef@polymer](https://img.shields.io/badge/Slack-josef@polymer-green.svg)](https://polymer-slack.herokuapp.com)
-
-This template is a starting point for building [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) based on [Polymer](https://www.polymer-project.org) & [Material Design](https://material.google.com) with motto [#UseThePlatform](https://www.polymer-project.org/1.0/about).
+>
 
 ## FAST Progressive Web Apps Solution
 
