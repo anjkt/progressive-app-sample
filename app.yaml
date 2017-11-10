@@ -59,17 +59,9 @@ handlers:
   secure: always
   mime_type: text/html; charset=UTF-8
   http_headers:
-    # Force Internet Explorer to render pages in the highest available
-    # mode in the various cases when it may not.
-    # https://hsivonen.fi/doctype/#ie8
+  
     X-UA-Compatible: "IE=edge"
-    # For more details on how to craft a reasonable policy for your site, read:
-    # http://www.html5rocks.com/en/tutorials/security/content-security-policy/ (or
-    # the specification: http://www.w3.org/TR/CSP11/). Also, to make things easier,
-    # you can use an online CSP header generator such as: http://cspisawesome.com/.
-    #Content-Security-Policy: "script-src 'self'; object-src 'self'"
-
-# Text files
+  
 
 - url: /humans.txt
   static_files: humans.txt
