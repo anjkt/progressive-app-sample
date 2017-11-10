@@ -1,7 +1,3 @@
-# Google App Engine application config file tailored to static websites.
-# Inspired by: https://github.com/h5bp/server-configs-gae
-# Complete documentation can be found here:
-# https://developers.google.com/appengine/docs/php/config/appconfig
 
 runtime: python27
 api_version: 1
